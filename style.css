@@ -125,7 +125,8 @@ main section img{
 }
 
 .search-container {
-  float: right;
+    float: right;
+    margin-right: 5vw
 }
 
 input[type=text] {
